@@ -2,7 +2,7 @@
 I build products at the intersection of tech and ecommerce. More on me in [my portfolio](http://charliesweeting.com "my portfolio").
 
 ## 🖊️ Writing
-I write about my ideas, thoughts and learnings around tech, brand and startups. You can find all that [here](http://https://www.charliesweeting.com/writing "here").
+I write about my ideas, thoughts and learnings around tech, brand and startups. You can find all that [here](https://www.charliesweeting.com/writing "here").
 
 ## 📣 Socials
 You can keep up with the things I'm building on [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCfrmqG8BI90kCw6bauydhxQ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CSweeting_) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csweeting/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/)
